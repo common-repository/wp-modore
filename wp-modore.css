@@ -1,0 +1,16 @@
+/*
+ * By Masayan
+ */
+#back-to-top {
+	bottom:50%;
+	display:block;
+	outline-color:invert;
+	outline-style:none;
+	outline-width:0pt;
+	position:fixed;
+	right:5px;
+}
+
+#back-to-top a img {
+	border: 0;
+}
